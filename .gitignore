@@ -1,0 +1,6 @@
+artifacts/book_embeddings.pkl
+artifacts/book_pivot.pkl
+artifacts/books.pkl
+artifacts/model.pkl
+artifacts/final_rating.pkl
+artifacts/hybrid_recommendations.pkl
