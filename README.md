@@ -24,7 +24,7 @@ To install the required packages, run:
 2. **Run the application**:
    The `app.py` file contains the Flask application to serve the recommendation system. To run the app:
    
-    python app.py
+    streamlit run app.py
 
 ## Methodology
 
