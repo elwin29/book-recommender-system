@@ -1,5 +1,12 @@
 streamlit
 numpy
+pandas
+scikit-learn
+scipy
+flask
+torch
+transformers
+pickle
 
-#local packages
+# Local packages
 -e .
